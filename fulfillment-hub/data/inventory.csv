@@ -1,0 +1,13 @@
+sku,main_warehouse_qty,secondary_warehouse_qty,reorder_level
+SKU001,34,10,12
+SKU002,0,16,10
+SKU003,19,8,8
+SKU004,42,0,15
+SKU005,17,14,8
+SKU006,28,5,10
+SKU007,11,12,6
+SKU008,4,22,8
+SKU009,21,0,8
+SKU010,35,8,12
+SKU011,7,18,7
+SKU012,15,9,8

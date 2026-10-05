@@ -1,0 +1,241 @@
+order_id,customer,sku,quantity,priority,status,order_time,deadline,stock_status,courier,shipping_cost,pickup_time
+ORD-1001,Aarav Traders,SKU011,1,Normal,Picking,2026-09-29 08:47:00,2026-09-29 13:47:00,Available,SwiftShip,55,10:30
+ORD-1002,Jade Commerce,SKU001,1,Normal,Staging,2026-09-29 11:12:00,2026-09-29 20:12:00,Available,QuickGo,50,16:00
+ORD-1003,FreshBox,SKU005,2,Normal,Shipped,2026-09-29 10:21:00,2026-09-29 17:21:00,Available,FastTrack,48,12:00
+ORD-1004,GreenLeaf Shop,SKU002,1,Normal,Shipped,2026-09-29 11:16:00,2026-09-29 16:16:00,Available,QuickGo,50,16:00
+ORD-1005,Delta Stores,SKU002,1,High,Staging,2026-09-29 09:36:00,2026-09-29 13:36:00,Stock Issue,SwiftShip,55,10:30
+ORD-1006,FreshBox,SKU005,3,High,Shipped,2026-09-29 10:17:00,2026-09-29 16:17:00,Available,ParcelPro,42,14:30
+ORD-1007,GreenLeaf Shop,SKU004,1,Normal,Staging,2026-09-29 07:38:00,2026-09-29 13:38:00,Available,FastTrack,48,12:00
+ORD-1008,FreshBox,SKU005,3,Normal,Packing,2026-09-29 09:53:00,2026-09-29 14:53:00,Available,FastTrack,48,12:00
+ORD-1009,Kite Retail,SKU007,1,Normal,Shipped,2026-09-29 09:13:00,2026-09-29 17:13:00,Available,QuickGo,50,16:00
+ORD-1010,GreenLeaf Shop,SKU008,1,Normal,Staging,2026-09-29 11:16:00,2026-09-29 20:16:00,Available,QuickGo,50,16:00
+ORD-1011,Cedar Home,SKU006,1,High,Packing,2026-09-29 07:48:00,2026-09-29 10:48:00,Available,SwiftShip,55,10:30
+ORD-1012,BlueCart Retail,SKU011,1,Normal,Picking,2026-09-29 10:33:00,2026-09-29 17:33:00,Available,SwiftShip,55,10:30
+ORD-1013,Aarav Traders,SKU011,2,Normal,Shipped,2026-09-29 09:07:00,2026-09-29 16:07:00,Available,QuickGo,50,16:00
+ORD-1014,Indigo Market,SKU012,2,Normal,Packing,2026-09-29 08:32:00,2026-09-29 13:32:00,Available,ParcelPro,42,14:30
+ORD-1015,BlueCart Retail,SKU010,1,Normal,Order Processed,2026-09-29 11:58:00,2026-09-29 16:58:00,Available,ParcelPro,42,14:30
+ORD-1016,BlueCart Retail,SKU006,2,High,Picking,2026-09-29 07:15:00,2026-09-29 10:15:00,Available,SwiftShip,55,10:30
+ORD-1017,Indigo Market,SKU009,2,Normal,Packing,2026-09-29 11:10:00,2026-09-29 18:10:00,Available,QuickGo,50,16:00
+ORD-1018,Delta Stores,SKU012,2,Normal,Picking,2026-09-29 09:28:00,2026-09-29 18:28:00,Available,QuickGo,50,16:00
+ORD-1019,Aarav Traders,SKU002,1,Normal,Picking,2026-09-29 08:00:00,2026-09-29 13:00:00,Available,SwiftShip,55,10:30
+ORD-1020,Harbor Retail,SKU006,1,Normal,Staging,2026-09-29 08:34:00,2026-09-29 14:34:00,Available,QuickGo,50,16:00
+ORD-1021,Kite Retail,SKU007,1,Normal,Packing,2026-09-29 10:26:00,2026-09-29 18:26:00,Available,SwiftShip,55,10:30
+ORD-1022,Cedar Home,SKU002,1,Normal,Shipped,2026-09-29 07:15:00,2026-09-29 13:15:00,Available,FastTrack,48,12:00
+ORD-1023,Indigo Market,SKU007,1,Normal,Shipped,2026-09-29 07:28:00,2026-09-29 16:28:00,Stock Issue,SwiftShip,55,10:30
+ORD-1024,GreenLeaf Shop,SKU001,3,High,Shipped,2026-09-29 08:26:00,2026-09-29 14:26:00,Available,QuickGo,50,16:00
+ORD-1025,Evergreen Mart,SKU001,1,Normal,Picking,2026-09-29 10:18:00,2026-09-29 18:18:00,Available,QuickGo,50,16:00
+ORD-1026,Demo Customer A,SKU002,3,High,Picking,2026-09-29 08:05:00,2026-09-29 11:00:00,Stock Issue,SwiftShip,55,10:30
+ORD-1027,Jade Commerce,SKU003,1,Normal,Shipped,2026-09-29 07:38:00,2026-09-29 12:38:00,Available,FastTrack,48,12:00
+ORD-1028,Delta Stores,SKU004,1,Normal,Order Processed,2026-09-29 11:36:00,2026-09-29 20:36:00,Available,ParcelPro,42,14:30
+ORD-1029,Jade Commerce,SKU011,2,Normal,Picking,2026-09-29 09:29:00,2026-09-29 16:29:00,Stock Issue,SwiftShip,55,10:30
+ORD-1030,FreshBox,SKU010,3,Normal,Order Processed,2026-09-29 09:08:00,2026-09-29 16:08:00,Available,SwiftShip,55,10:30
+ORD-1031,Demo Customer B,SKU008,2,High,Packing,2026-09-29 08:20:00,2026-09-29 11:30:00,Available,FastTrack,48,12:00
+ORD-1032,Delta Stores,SKU003,1,High,Staging,2026-09-29 08:17:00,2026-09-29 13:17:00,Available,FastTrack,48,12:00
+ORD-1033,FreshBox,SKU011,1,Normal,Packing,2026-09-29 07:05:00,2026-09-29 15:05:00,Stock Issue,ParcelPro,42,14:30
+ORD-1034,Lotus Stores,SKU003,1,Normal,Staging,2026-09-29 11:45:00,2026-09-29 19:45:00,Available,SwiftShip,55,10:30
+ORD-1035,Aarav Traders,SKU003,1,High,Packing,2026-09-29 08:27:00,2026-09-29 12:27:00,Available,SwiftShip,55,10:30
+ORD-1036,Delta Stores,SKU006,1,Normal,Order Processed,2026-09-29 11:56:00,2026-09-29 19:56:00,Available,FastTrack,48,12:00
+ORD-1037,Lotus Stores,SKU003,3,High,Shipped,2026-09-29 07:11:00,2026-09-29 12:11:00,Available,QuickGo,50,16:00
+ORD-1038,Harbor Retail,SKU004,1,High,Order Processed,2026-09-29 07:54:00,2026-09-29 13:54:00,Available,FastTrack,48,12:00
+ORD-1039,BlueCart Retail,SKU006,1,High,Picking,2026-09-29 07:42:00,2026-09-29 11:42:00,Available,QuickGo,50,16:00
+ORD-1040,Evergreen Mart,SKU005,1,Normal,Staging,2026-09-29 11:21:00,2026-09-29 16:21:00,Available,SwiftShip,55,10:30
+ORD-1041,Indigo Market,SKU003,1,High,Order Received,2026-09-29 11:27:00,2026-09-29 16:27:00,Available,ParcelPro,42,14:30
+ORD-1042,BlueCart Retail,SKU002,1,Normal,Picking,2026-09-29 10:00:00,2026-09-29 19:00:00,Available,FastTrack,48,12:00
+ORD-1043,FreshBox,SKU011,2,Normal,Staging,2026-09-29 07:46:00,2026-09-29 14:46:00,Available,ParcelPro,42,14:30
+ORD-1044,Demo Customer C,SKU004,1,Normal,Staging,2026-09-29 08:40:00,2026-09-29 16:00:00,Available,ParcelPro,42,14:30
+ORD-1045,Indigo Market,SKU005,1,Normal,Packing,2026-09-29 09:29:00,2026-09-29 17:29:00,Available,QuickGo,50,16:00
+ORD-1046,Delta Stores,SKU008,2,High,Staging,2026-09-29 07:18:00,2026-09-29 12:18:00,Available,SwiftShip,55,10:30
+ORD-1047,Kite Retail,SKU011,1,High,Order Processed,2026-09-29 07:15:00,2026-09-29 13:15:00,Available,SwiftShip,55,10:30
+ORD-1048,Delta Stores,SKU010,1,Normal,Packing,2026-09-29 08:09:00,2026-09-29 13:09:00,Available,SwiftShip,55,10:30
+ORD-1049,Harbor Retail,SKU003,2,Normal,Packing,2026-09-29 11:15:00,2026-09-29 16:15:00,Available,QuickGo,50,16:00
+ORD-1050,Indigo Market,SKU011,1,Normal,Picking,2026-09-29 10:39:00,2026-09-29 19:39:00,Available,QuickGo,50,16:00
+ORD-1051,Indigo Market,SKU008,2,Normal,Packing,2026-09-29 09:48:00,2026-09-29 15:48:00,Available,ParcelPro,42,14:30
+ORD-1052,Indigo Market,SKU008,1,Normal,Order Received,2026-09-29 09:15:00,2026-09-29 16:15:00,Available,ParcelPro,42,14:30
+ORD-1053,Harbor Retail,SKU002,1,Normal,Staging,2026-09-29 08:04:00,2026-09-29 16:04:00,Available,QuickGo,50,16:00
+ORD-1054,FreshBox,SKU007,1,High,Picking,2026-09-29 11:44:00,2026-09-29 14:44:00,Available,QuickGo,50,16:00
+ORD-1055,GreenLeaf Shop,SKU005,2,High,Shipped,2026-09-29 10:34:00,2026-09-29 14:34:00,Available,QuickGo,50,16:00
+ORD-1056,Jade Commerce,SKU008,1,Normal,Staging,2026-09-29 10:46:00,2026-09-29 16:46:00,Available,QuickGo,50,16:00
+ORD-1057,Cedar Home,SKU009,1,Normal,Packing,2026-09-29 07:05:00,2026-09-29 15:05:00,Available,FastTrack,48,12:00
+ORD-1058,GreenLeaf Shop,SKU001,1,Normal,Packing,2026-09-29 09:48:00,2026-09-29 17:48:00,Available,ParcelPro,42,14:30
+ORD-1059,Kite Retail,SKU005,2,Normal,Staging,2026-09-29 07:22:00,2026-09-29 13:22:00,Available,SwiftShip,55,10:30
+ORD-1060,Kite Retail,SKU001,2,High,Order Processed,2026-09-29 07:39:00,2026-09-29 11:39:00,Available,FastTrack,48,12:00
+ORD-1061,Cedar Home,SKU002,1,Normal,Staging,2026-09-29 09:10:00,2026-09-29 18:10:00,Available,SwiftShip,55,10:30
+ORD-1062,Kite Retail,SKU005,1,Normal,Picking,2026-09-29 10:25:00,2026-09-29 16:25:00,Available,SwiftShip,55,10:30
+ORD-1063,GreenLeaf Shop,SKU004,1,Normal,Shipped,2026-09-29 11:51:00,2026-09-29 16:51:00,Available,SwiftShip,55,10:30
+ORD-1064,FreshBox,SKU011,1,Normal,Picking,2026-09-29 10:52:00,2026-09-29 18:52:00,Available,SwiftShip,55,10:30
+ORD-1065,Indigo Market,SKU011,2,Normal,Order Processed,2026-09-29 08:46:00,2026-09-29 17:46:00,Available,ParcelPro,42,14:30
+ORD-1066,Harbor Retail,SKU008,1,High,Packing,2026-09-29 09:54:00,2026-09-29 13:54:00,Available,SwiftShip,55,10:30
+ORD-1067,Delta Stores,SKU004,2,Normal,Staging,2026-09-29 09:01:00,2026-09-29 17:01:00,Available,ParcelPro,42,14:30
+ORD-1068,Lotus Stores,SKU006,2,Normal,Shipped,2026-09-29 09:35:00,2026-09-29 14:35:00,Available,FastTrack,48,12:00
+ORD-1069,GreenLeaf Shop,SKU007,1,Normal,Staging,2026-09-29 10:28:00,2026-09-29 15:28:00,Available,SwiftShip,55,10:30
+ORD-1070,Indigo Market,SKU012,1,Normal,Picking,2026-09-29 11:33:00,2026-09-29 18:33:00,Available,QuickGo,50,16:00
+ORD-1071,Indigo Market,SKU006,1,Normal,Picking,2026-09-29 08:07:00,2026-09-29 14:07:00,Available,ParcelPro,42,14:30
+ORD-1072,Delta Stores,SKU012,1,Normal,Packing,2026-09-29 11:48:00,2026-09-29 20:48:00,Available,ParcelPro,42,14:30
+ORD-1073,Indigo Market,SKU005,1,Normal,Order Received,2026-09-29 11:08:00,2026-09-29 18:08:00,Available,SwiftShip,55,10:30
+ORD-1074,Harbor Retail,SKU005,2,Normal,Shipped,2026-09-29 10:06:00,2026-09-29 15:06:00,Available,ParcelPro,42,14:30
+ORD-1075,Jade Commerce,SKU006,1,Normal,Shipped,2026-09-29 10:07:00,2026-09-29 15:07:00,Available,QuickGo,50,16:00
+ORD-1076,GreenLeaf Shop,SKU011,2,Normal,Shipped,2026-09-29 09:05:00,2026-09-29 15:05:00,Available,SwiftShip,55,10:30
+ORD-1077,GreenLeaf Shop,SKU010,1,Normal,Shipped,2026-09-29 10:28:00,2026-09-29 18:28:00,Available,ParcelPro,42,14:30
+ORD-1078,BlueCart Retail,SKU005,1,Normal,Shipped,2026-09-29 07:48:00,2026-09-29 13:48:00,Available,FastTrack,48,12:00
+ORD-1079,Delta Stores,SKU003,1,Normal,Order Processed,2026-09-29 10:28:00,2026-09-29 19:28:00,Available,QuickGo,50,16:00
+ORD-1080,Indigo Market,SKU005,2,Normal,Packing,2026-09-29 08:59:00,2026-09-29 15:59:00,Available,FastTrack,48,12:00
+ORD-1081,Jade Commerce,SKU004,1,High,Shipped,2026-09-29 07:03:00,2026-09-29 11:03:00,Available,ParcelPro,42,14:30
+ORD-1082,Jade Commerce,SKU005,1,Normal,Picking,2026-09-29 10:17:00,2026-09-29 19:17:00,Available,QuickGo,50,16:00
+ORD-1083,Kite Retail,SKU001,2,Normal,Staging,2026-09-29 07:05:00,2026-09-29 13:05:00,Available,SwiftShip,55,10:30
+ORD-1084,Jade Commerce,SKU005,1,Normal,Order Processed,2026-09-29 11:41:00,2026-09-29 19:41:00,Available,ParcelPro,42,14:30
+ORD-1085,Cedar Home,SKU007,1,Normal,Order Processed,2026-09-29 09:26:00,2026-09-29 16:26:00,Available,ParcelPro,42,14:30
+ORD-1086,FreshBox,SKU006,1,Normal,Staging,2026-09-29 10:52:00,2026-09-29 19:52:00,Available,SwiftShip,55,10:30
+ORD-1087,Delta Stores,SKU005,1,High,Picking,2026-09-29 11:52:00,2026-09-29 14:52:00,Available,QuickGo,50,16:00
+ORD-1088,Harbor Retail,SKU009,1,Normal,Staging,2026-09-29 07:13:00,2026-09-29 14:13:00,Available,FastTrack,48,12:00
+ORD-1089,Indigo Market,SKU012,1,Normal,Staging,2026-09-29 08:45:00,2026-09-29 14:45:00,Available,ParcelPro,42,14:30
+ORD-1090,Evergreen Mart,SKU007,1,High,Shipped,2026-09-29 10:07:00,2026-09-29 14:07:00,Available,QuickGo,50,16:00
+ORD-1091,Jade Commerce,SKU009,2,Normal,Packing,2026-09-29 10:15:00,2026-09-29 18:15:00,Available,FastTrack,48,12:00
+ORD-1092,Evergreen Mart,SKU009,2,Normal,Order Received,2026-09-29 10:21:00,2026-09-29 19:21:00,Available,ParcelPro,42,14:30
+ORD-1093,FreshBox,SKU012,1,Normal,Shipped,2026-09-29 10:55:00,2026-09-29 16:55:00,Available,QuickGo,50,16:00
+ORD-1094,Delta Stores,SKU006,1,Normal,Packing,2026-09-29 09:55:00,2026-09-29 15:55:00,Available,FastTrack,48,12:00
+ORD-1095,Cedar Home,SKU007,1,Normal,Staging,2026-09-29 10:24:00,2026-09-29 16:24:00,Available,QuickGo,50,16:00
+ORD-1096,Cedar Home,SKU009,3,Normal,Order Processed,2026-09-29 10:06:00,2026-09-29 19:06:00,Stock Issue,QuickGo,50,16:00
+ORD-1097,Kite Retail,SKU007,2,High,Order Received,2026-09-29 09:21:00,2026-09-29 15:21:00,Available,SwiftShip,55,10:30
+ORD-1098,Delta Stores,SKU009,1,Normal,Staging,2026-09-29 10:55:00,2026-09-29 19:55:00,Available,SwiftShip,55,10:30
+ORD-1099,Lotus Stores,SKU011,2,Normal,Picking,2026-09-29 07:27:00,2026-09-29 12:27:00,Available,SwiftShip,55,10:30
+ORD-1100,Indigo Market,SKU005,2,Normal,Shipped,2026-09-29 09:22:00,2026-09-29 16:22:00,Available,QuickGo,50,16:00
+ORD-1101,Jade Commerce,SKU007,1,High,Order Processed,2026-09-29 07:39:00,2026-09-29 13:39:00,Available,FastTrack,48,12:00
+ORD-1102,Cedar Home,SKU003,1,Normal,Packing,2026-09-29 07:57:00,2026-09-29 15:57:00,Available,ParcelPro,42,14:30
+ORD-1103,Delta Stores,SKU002,1,Normal,Packing,2026-09-29 10:44:00,2026-09-29 17:44:00,Available,QuickGo,50,16:00
+ORD-1104,Kite Retail,SKU007,2,Normal,Picking,2026-09-29 09:36:00,2026-09-29 16:36:00,Stock Issue,ParcelPro,42,14:30
+ORD-1105,Evergreen Mart,SKU007,1,Normal,Staging,2026-09-29 07:58:00,2026-09-29 16:58:00,Available,QuickGo,50,16:00
+ORD-1106,Kite Retail,SKU004,1,Normal,Staging,2026-09-29 11:16:00,2026-09-29 17:16:00,Available,SwiftShip,55,10:30
+ORD-1107,Cedar Home,SKU001,1,Normal,Packing,2026-09-29 08:05:00,2026-09-29 15:05:00,Available,ParcelPro,42,14:30
+ORD-1108,Harbor Retail,SKU004,1,Normal,Shipped,2026-09-29 11:32:00,2026-09-29 18:32:00,Available,FastTrack,48,12:00
+ORD-1109,Indigo Market,SKU005,2,Normal,Order Processed,2026-09-29 07:09:00,2026-09-29 13:09:00,Available,QuickGo,50,16:00
+ORD-1110,Kite Retail,SKU006,1,Normal,Picking,2026-09-29 07:29:00,2026-09-29 14:29:00,Available,ParcelPro,42,14:30
+ORD-1111,Kite Retail,SKU006,1,Normal,Order Received,2026-09-29 11:20:00,2026-09-29 20:20:00,Available,FastTrack,48,12:00
+ORD-1112,BlueCart Retail,SKU008,2,Normal,Picking,2026-09-29 08:02:00,2026-09-29 13:02:00,Available,ParcelPro,42,14:30
+ORD-1113,Lotus Stores,SKU002,1,Normal,Picking,2026-09-29 09:42:00,2026-09-29 18:42:00,Available,QuickGo,50,16:00
+ORD-1114,Delta Stores,SKU003,2,Normal,Shipped,2026-09-29 11:26:00,2026-09-29 18:26:00,Available,SwiftShip,55,10:30
+ORD-1115,Delta Stores,SKU008,1,Normal,Picking,2026-09-29 09:34:00,2026-09-29 16:34:00,Available,SwiftShip,55,10:30
+ORD-1116,Delta Stores,SKU002,3,High,Order Processed,2026-09-29 08:41:00,2026-09-29 11:41:00,Available,SwiftShip,55,10:30
+ORD-1117,Delta Stores,SKU003,2,Normal,Shipped,2026-09-29 11:13:00,2026-09-29 20:13:00,Available,FastTrack,48,12:00
+ORD-1118,Cedar Home,SKU006,2,High,Packing,2026-09-29 09:54:00,2026-09-29 13:54:00,Available,FastTrack,48,12:00
+ORD-1119,Aarav Traders,SKU002,1,Normal,Order Received,2026-09-29 08:37:00,2026-09-29 15:37:00,Available,SwiftShip,55,10:30
+ORD-1120,Delta Stores,SKU003,2,Normal,Staging,2026-09-29 10:28:00,2026-09-29 17:28:00,Available,SwiftShip,55,10:30
+ORD-1121,Harbor Retail,SKU010,1,High,Shipped,2026-09-29 11:19:00,2026-09-29 17:19:00,Stock Issue,SwiftShip,55,10:30
+ORD-1122,BlueCart Retail,SKU007,1,Normal,Staging,2026-09-29 10:04:00,2026-09-29 15:04:00,Available,ParcelPro,42,14:30
+ORD-1123,Jade Commerce,SKU003,1,Normal,Packing,2026-09-29 09:24:00,2026-09-29 18:24:00,Available,ParcelPro,42,14:30
+ORD-1124,Delta Stores,SKU007,1,Normal,Shipped,2026-09-29 11:46:00,2026-09-29 17:46:00,Available,QuickGo,50,16:00
+ORD-1125,FreshBox,SKU007,1,Normal,Picking,2026-09-29 07:20:00,2026-09-29 15:20:00,Available,ParcelPro,42,14:30
+ORD-1126,FreshBox,SKU003,2,Normal,Order Processed,2026-09-29 07:05:00,2026-09-29 15:05:00,Available,SwiftShip,55,10:30
+ORD-1127,Kite Retail,SKU003,1,Normal,Packing,2026-09-29 09:42:00,2026-09-29 14:42:00,Available,QuickGo,50,16:00
+ORD-1128,Delta Stores,SKU007,2,Normal,Shipped,2026-09-29 11:19:00,2026-09-29 18:19:00,Available,SwiftShip,55,10:30
+ORD-1129,GreenLeaf Shop,SKU003,1,Normal,Order Processed,2026-09-29 11:23:00,2026-09-29 16:23:00,Available,ParcelPro,42,14:30
+ORD-1130,Lotus Stores,SKU009,3,High,Staging,2026-09-29 11:01:00,2026-09-29 16:01:00,Available,SwiftShip,55,10:30
+ORD-1131,Kite Retail,SKU005,2,Normal,Order Processed,2026-09-29 08:36:00,2026-09-29 16:36:00,Available,SwiftShip,55,10:30
+ORD-1132,FreshBox,SKU001,1,Normal,Picking,2026-09-29 10:21:00,2026-09-29 16:21:00,Available,ParcelPro,42,14:30
+ORD-1133,GreenLeaf Shop,SKU010,1,High,Order Processed,2026-09-29 11:03:00,2026-09-29 14:03:00,Available,ParcelPro,42,14:30
+ORD-1134,Kite Retail,SKU008,1,Normal,Order Processed,2026-09-29 11:07:00,2026-09-29 18:07:00,Available,QuickGo,50,16:00
+ORD-1135,Evergreen Mart,SKU011,1,Normal,Picking,2026-09-29 08:25:00,2026-09-29 17:25:00,Stock Issue,SwiftShip,55,10:30
+ORD-1136,GreenLeaf Shop,SKU004,2,Normal,Picking,2026-09-29 07:00:00,2026-09-29 15:00:00,Available,QuickGo,50,16:00
+ORD-1137,Harbor Retail,SKU009,2,Normal,Shipped,2026-09-29 09:04:00,2026-09-29 17:04:00,Available,SwiftShip,55,10:30
+ORD-1138,FreshBox,SKU002,2,Normal,Packing,2026-09-29 10:18:00,2026-09-29 15:18:00,Stock Issue,QuickGo,50,16:00
+ORD-1139,Jade Commerce,SKU003,2,Normal,Shipped,2026-09-29 09:05:00,2026-09-29 17:05:00,Available,SwiftShip,55,10:30
+ORD-1140,Kite Retail,SKU007,1,Normal,Picking,2026-09-29 09:14:00,2026-09-29 16:14:00,Stock Issue,FastTrack,48,12:00
+ORD-1141,Evergreen Mart,SKU002,1,Normal,Shipped,2026-09-29 09:46:00,2026-09-29 15:46:00,Available,FastTrack,48,12:00
+ORD-1142,Jade Commerce,SKU004,1,Normal,Staging,2026-09-29 07:11:00,2026-09-29 15:11:00,Available,QuickGo,50,16:00
+ORD-1143,Harbor Retail,SKU008,2,High,Staging,2026-09-29 11:20:00,2026-09-29 16:20:00,Available,FastTrack,48,12:00
+ORD-1144,Aarav Traders,SKU008,1,High,Packing,2026-09-29 09:32:00,2026-09-29 12:32:00,Available,ParcelPro,42,14:30
+ORD-1145,Indigo Market,SKU001,1,Normal,Staging,2026-09-29 07:39:00,2026-09-29 16:39:00,Available,QuickGo,50,16:00
+ORD-1146,Aarav Traders,SKU012,2,Normal,Shipped,2026-09-29 08:20:00,2026-09-29 17:20:00,Available,QuickGo,50,16:00
+ORD-1147,Harbor Retail,SKU008,1,High,Picking,2026-09-29 07:32:00,2026-09-29 11:32:00,Available,SwiftShip,55,10:30
+ORD-1148,Aarav Traders,SKU008,1,Normal,Picking,2026-09-29 09:24:00,2026-09-29 17:24:00,Available,ParcelPro,42,14:30
+ORD-1149,Jade Commerce,SKU011,1,Normal,Order Processed,2026-09-29 10:18:00,2026-09-29 17:18:00,Available,FastTrack,48,12:00
+ORD-1150,GreenLeaf Shop,SKU011,1,Normal,Shipped,2026-09-29 10:08:00,2026-09-29 19:08:00,Available,SwiftShip,55,10:30
+ORD-1151,Evergreen Mart,SKU011,2,High,Staging,2026-09-29 11:05:00,2026-09-29 17:05:00,Stock Issue,ParcelPro,42,14:30
+ORD-1152,BlueCart Retail,SKU003,3,Normal,Shipped,2026-09-29 08:14:00,2026-09-29 14:14:00,Stock Issue,FastTrack,48,12:00
+ORD-1153,Cedar Home,SKU009,2,High,Shipped,2026-09-29 07:42:00,2026-09-29 12:42:00,Available,FastTrack,48,12:00
+ORD-1154,Kite Retail,SKU003,1,Normal,Staging,2026-09-29 08:46:00,2026-09-29 16:46:00,Available,SwiftShip,55,10:30
+ORD-1155,Harbor Retail,SKU012,1,Normal,Picking,2026-09-29 10:14:00,2026-09-29 19:14:00,Available,FastTrack,48,12:00
+ORD-1156,GreenLeaf Shop,SKU004,1,High,Shipped,2026-09-29 10:49:00,2026-09-29 15:49:00,Available,QuickGo,50,16:00
+ORD-1157,BlueCart Retail,SKU003,2,High,Order Processed,2026-09-29 09:03:00,2026-09-29 15:03:00,Available,ParcelPro,42,14:30
+ORD-1158,BlueCart Retail,SKU012,2,High,Picking,2026-09-29 08:17:00,2026-09-29 14:17:00,Available,FastTrack,48,12:00
+ORD-1159,BlueCart Retail,SKU004,2,High,Shipped,2026-09-29 10:03:00,2026-09-29 16:03:00,Available,ParcelPro,42,14:30
+ORD-1160,Harbor Retail,SKU006,1,Normal,Order Processed,2026-09-29 09:50:00,2026-09-29 15:50:00,Stock Issue,FastTrack,48,12:00
+ORD-1161,Cedar Home,SKU012,2,Normal,Packing,2026-09-29 11:00:00,2026-09-29 16:00:00,Available,SwiftShip,55,10:30
+ORD-1162,GreenLeaf Shop,SKU009,3,Normal,Packing,2026-09-29 09:15:00,2026-09-29 16:15:00,Stock Issue,SwiftShip,55,10:30
+ORD-1163,Jade Commerce,SKU011,2,Normal,Order Processed,2026-09-29 10:38:00,2026-09-29 19:38:00,Available,SwiftShip,55,10:30
+ORD-1164,Kite Retail,SKU004,2,Normal,Order Received,2026-09-29 09:15:00,2026-09-29 18:15:00,Available,QuickGo,50,16:00
+ORD-1165,Harbor Retail,SKU002,1,Normal,Shipped,2026-09-29 11:32:00,2026-09-29 20:32:00,Available,SwiftShip,55,10:30
+ORD-1166,Kite Retail,SKU001,1,High,Picking,2026-09-29 07:22:00,2026-09-29 10:22:00,Available,ParcelPro,42,14:30
+ORD-1167,Cedar Home,SKU011,1,Normal,Staging,2026-09-29 08:02:00,2026-09-29 15:02:00,Available,ParcelPro,42,14:30
+ORD-1168,Aarav Traders,SKU011,1,Normal,Staging,2026-09-29 08:04:00,2026-09-29 16:04:00,Available,SwiftShip,55,10:30
+ORD-1169,Kite Retail,SKU004,2,Normal,Picking,2026-09-29 10:52:00,2026-09-29 19:52:00,Available,QuickGo,50,16:00
+ORD-1170,GreenLeaf Shop,SKU004,1,High,Order Received,2026-09-29 09:17:00,2026-09-29 12:17:00,Available,ParcelPro,42,14:30
+ORD-1171,Indigo Market,SKU012,1,High,Picking,2026-09-29 08:31:00,2026-09-29 14:31:00,Available,ParcelPro,42,14:30
+ORD-1172,BlueCart Retail,SKU005,2,Normal,Order Received,2026-09-29 11:52:00,2026-09-29 17:52:00,Available,ParcelPro,42,14:30
+ORD-1173,Lotus Stores,SKU006,1,Normal,Staging,2026-09-29 10:10:00,2026-09-29 18:10:00,Available,ParcelPro,42,14:30
+ORD-1174,Lotus Stores,SKU006,1,Normal,Staging,2026-09-29 07:04:00,2026-09-29 15:04:00,Available,ParcelPro,42,14:30
+ORD-1175,Kite Retail,SKU011,1,Normal,Shipped,2026-09-29 10:02:00,2026-09-29 16:02:00,Available,SwiftShip,55,10:30
+ORD-1176,BlueCart Retail,SKU006,1,High,Order Received,2026-09-29 08:43:00,2026-09-29 14:43:00,Available,ParcelPro,42,14:30
+ORD-1177,Harbor Retail,SKU010,1,Normal,Picking,2026-09-29 09:15:00,2026-09-29 14:15:00,Available,SwiftShip,55,10:30
+ORD-1178,Evergreen Mart,SKU009,1,Normal,Picking,2026-09-29 09:45:00,2026-09-29 17:45:00,Available,FastTrack,48,12:00
+ORD-1179,Kite Retail,SKU012,2,Normal,Order Processed,2026-09-29 07:28:00,2026-09-29 13:28:00,Available,QuickGo,50,16:00
+ORD-1180,Lotus Stores,SKU006,1,Normal,Packing,2026-09-29 09:57:00,2026-09-29 16:57:00,Available,FastTrack,48,12:00
+ORD-1181,Aarav Traders,SKU011,1,Normal,Picking,2026-09-29 08:50:00,2026-09-29 14:50:00,Available,FastTrack,48,12:00
+ORD-1182,GreenLeaf Shop,SKU006,1,Normal,Shipped,2026-09-29 11:08:00,2026-09-29 20:08:00,Stock Issue,SwiftShip,55,10:30
+ORD-1183,Harbor Retail,SKU012,2,Normal,Shipped,2026-09-29 11:04:00,2026-09-29 17:04:00,Available,ParcelPro,42,14:30
+ORD-1184,Cedar Home,SKU008,2,Normal,Shipped,2026-09-29 11:40:00,2026-09-29 20:40:00,Available,FastTrack,48,12:00
+ORD-1185,Lotus Stores,SKU007,1,High,Shipped,2026-09-29 11:09:00,2026-09-29 16:09:00,Available,FastTrack,48,12:00
+ORD-1186,Evergreen Mart,SKU004,1,High,Shipped,2026-09-29 07:16:00,2026-09-29 11:16:00,Available,ParcelPro,42,14:30
+ORD-1187,Jade Commerce,SKU010,1,Normal,Order Processed,2026-09-29 11:09:00,2026-09-29 17:09:00,Available,ParcelPro,42,14:30
+ORD-1188,Aarav Traders,SKU001,2,Normal,Order Received,2026-09-29 11:16:00,2026-09-29 17:16:00,Available,QuickGo,50,16:00
+ORD-1189,BlueCart Retail,SKU008,2,Normal,Staging,2026-09-29 09:30:00,2026-09-29 15:30:00,Available,QuickGo,50,16:00
+ORD-1190,Lotus Stores,SKU012,1,Normal,Packing,2026-09-29 08:21:00,2026-09-29 17:21:00,Available,FastTrack,48,12:00
+ORD-1191,Harbor Retail,SKU006,2,High,Shipped,2026-09-29 08:48:00,2026-09-29 13:48:00,Available,SwiftShip,55,10:30
+ORD-1192,Cedar Home,SKU002,1,Normal,Order Processed,2026-09-29 09:24:00,2026-09-29 18:24:00,Available,QuickGo,50,16:00
+ORD-1193,Evergreen Mart,SKU006,3,Normal,Order Processed,2026-09-29 08:31:00,2026-09-29 17:31:00,Available,QuickGo,50,16:00
+ORD-1194,Harbor Retail,SKU008,1,High,Packing,2026-09-29 08:13:00,2026-09-29 13:13:00,Stock Issue,SwiftShip,55,10:30
+ORD-1195,Evergreen Mart,SKU010,2,Normal,Packing,2026-09-29 11:00:00,2026-09-29 16:00:00,Available,QuickGo,50,16:00
+ORD-1196,Evergreen Mart,SKU012,1,Normal,Order Received,2026-09-29 07:36:00,2026-09-29 16:36:00,Available,FastTrack,48,12:00
+ORD-1197,BlueCart Retail,SKU002,1,Normal,Packing,2026-09-29 11:43:00,2026-09-29 20:43:00,Available,SwiftShip,55,10:30
+ORD-1198,GreenLeaf Shop,SKU007,1,High,Packing,2026-09-29 09:48:00,2026-09-29 13:48:00,Available,FastTrack,48,12:00
+ORD-1199,Indigo Market,SKU009,1,Normal,Staging,2026-09-29 10:33:00,2026-09-29 18:33:00,Available,FastTrack,48,12:00
+ORD-1200,Indigo Market,SKU003,1,Normal,Order Processed,2026-09-29 11:47:00,2026-09-29 18:47:00,Available,ParcelPro,42,14:30
+ORD-1201,Jade Commerce,SKU009,1,Normal,Packing,2026-09-29 07:23:00,2026-09-29 14:23:00,Available,SwiftShip,55,10:30
+ORD-1202,Jade Commerce,SKU005,2,Normal,Staging,2026-09-29 07:38:00,2026-09-29 15:38:00,Available,ParcelPro,42,14:30
+ORD-1203,Kite Retail,SKU010,1,Normal,Packing,2026-09-29 11:40:00,2026-09-29 20:40:00,Available,QuickGo,50,16:00
+ORD-1204,Lotus Stores,SKU004,1,High,Order Processed,2026-09-29 07:28:00,2026-09-29 12:28:00,Available,QuickGo,50,16:00
+ORD-1205,Kite Retail,SKU004,1,Normal,Shipped,2026-09-29 07:45:00,2026-09-29 13:45:00,Available,FastTrack,48,12:00
+ORD-1206,Lotus Stores,SKU008,1,Normal,Order Processed,2026-09-29 11:21:00,2026-09-29 20:21:00,Available,ParcelPro,42,14:30
+ORD-1207,Evergreen Mart,SKU011,1,Normal,Staging,2026-09-29 08:15:00,2026-09-29 15:15:00,Available,ParcelPro,42,14:30
+ORD-1208,Jade Commerce,SKU005,2,Normal,Packing,2026-09-29 10:22:00,2026-09-29 19:22:00,Available,ParcelPro,42,14:30
+ORD-1209,Lotus Stores,SKU011,1,High,Picking,2026-09-29 09:49:00,2026-09-29 13:49:00,Stock Issue,ParcelPro,42,14:30
+ORD-1210,Lotus Stores,SKU002,1,Normal,Picking,2026-09-29 10:13:00,2026-09-29 16:13:00,Available,ParcelPro,42,14:30
+ORD-1211,Aarav Traders,SKU005,1,Normal,Packing,2026-09-29 08:03:00,2026-09-29 17:03:00,Available,FastTrack,48,12:00
+ORD-1212,Harbor Retail,SKU002,1,Normal,Order Processed,2026-09-29 08:00:00,2026-09-29 17:00:00,Available,FastTrack,48,12:00
+ORD-1213,Delta Stores,SKU008,1,Normal,Picking,2026-09-29 09:41:00,2026-09-29 14:41:00,Available,SwiftShip,55,10:30
+ORD-1214,GreenLeaf Shop,SKU009,2,High,Order Received,2026-09-29 08:26:00,2026-09-29 12:26:00,Available,SwiftShip,55,10:30
+ORD-1215,Jade Commerce,SKU008,1,Normal,Shipped,2026-09-29 09:56:00,2026-09-29 14:56:00,Available,SwiftShip,55,10:30
+ORD-1216,Harbor Retail,SKU002,2,Normal,Packing,2026-09-29 11:33:00,2026-09-29 19:33:00,Available,FastTrack,48,12:00
+ORD-1217,FreshBox,SKU005,1,Normal,Order Processed,2026-09-29 10:41:00,2026-09-29 17:41:00,Stock Issue,FastTrack,48,12:00
+ORD-1218,Kite Retail,SKU005,1,Normal,Order Processed,2026-09-29 10:52:00,2026-09-29 18:52:00,Available,ParcelPro,42,14:30
+ORD-1219,Evergreen Mart,SKU002,1,Normal,Picking,2026-09-29 08:00:00,2026-09-29 15:00:00,Available,QuickGo,50,16:00
+ORD-1220,Harbor Retail,SKU006,1,Normal,Order Received,2026-09-29 09:44:00,2026-09-29 15:44:00,Available,SwiftShip,55,10:30
+ORD-1221,Delta Stores,SKU005,1,Normal,Shipped,2026-09-29 09:44:00,2026-09-29 14:44:00,Available,ParcelPro,42,14:30
+ORD-1222,Kite Retail,SKU004,3,Normal,Packing,2026-09-29 11:23:00,2026-09-29 19:23:00,Available,QuickGo,50,16:00
+ORD-1223,Jade Commerce,SKU004,2,Normal,Packing,2026-09-29 07:33:00,2026-09-29 15:33:00,Stock Issue,ParcelPro,42,14:30
+ORD-1224,Indigo Market,SKU002,1,Normal,Packing,2026-09-29 11:34:00,2026-09-29 17:34:00,Available,FastTrack,48,12:00
+ORD-1225,Harbor Retail,SKU008,1,Normal,Packing,2026-09-29 07:57:00,2026-09-29 16:57:00,Available,QuickGo,50,16:00
+ORD-1226,Aarav Traders,SKU003,1,Normal,Order Received,2026-09-29 10:43:00,2026-09-29 17:43:00,Available,SwiftShip,55,10:30
+ORD-1227,Harbor Retail,SKU012,1,Normal,Packing,2026-09-29 07:34:00,2026-09-29 12:34:00,Available,SwiftShip,55,10:30
+ORD-1228,GreenLeaf Shop,SKU001,1,Normal,Order Processed,2026-09-29 10:23:00,2026-09-29 18:23:00,Available,QuickGo,50,16:00
+ORD-1229,Indigo Market,SKU007,1,High,Shipped,2026-09-29 08:41:00,2026-09-29 13:41:00,Available,SwiftShip,55,10:30
+ORD-1230,Lotus Stores,SKU007,1,Normal,Picking,2026-09-29 07:48:00,2026-09-29 12:48:00,Available,ParcelPro,42,14:30
+ORD-1231,Lotus Stores,SKU009,1,Normal,Picking,2026-09-29 10:22:00,2026-09-29 16:22:00,Available,ParcelPro,42,14:30
+ORD-1232,Aarav Traders,SKU002,1,Normal,Staging,2026-09-29 07:15:00,2026-09-29 13:15:00,Available,SwiftShip,55,10:30
+ORD-1233,Aarav Traders,SKU008,1,Normal,Order Received,2026-09-29 07:25:00,2026-09-29 15:25:00,Available,FastTrack,48,12:00
+ORD-1234,Cedar Home,SKU003,1,Normal,Shipped,2026-09-29 11:20:00,2026-09-29 20:20:00,Available,ParcelPro,42,14:30
+ORD-1235,Aarav Traders,SKU011,1,Normal,Picking,2026-09-29 11:37:00,2026-09-29 17:37:00,Available,QuickGo,50,16:00
+ORD-1236,GreenLeaf Shop,SKU006,3,Normal,Shipped,2026-09-29 09:44:00,2026-09-29 17:44:00,Available,QuickGo,50,16:00
+ORD-1237,Indigo Market,SKU003,2,Normal,Shipped,2026-09-29 09:54:00,2026-09-29 15:54:00,Available,QuickGo,50,16:00
+ORD-1238,Harbor Retail,SKU007,3,Normal,Order Processed,2026-09-29 08:16:00,2026-09-29 14:16:00,Available,ParcelPro,42,14:30
+ORD-1239,Delta Stores,SKU006,1,Normal,Order Processed,2026-09-29 09:24:00,2026-09-29 18:24:00,Available,SwiftShip,55,10:30
+ORD-1240,Lotus Stores,SKU010,2,Normal,Packing,2026-09-29 09:19:00,2026-09-29 14:19:00,Available,FastTrack,48,12:00
